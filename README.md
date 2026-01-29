@@ -1,9 +1,8 @@
 # 🌤️ Sky Sense
 
-Sky Sense is a modern Flutter weather application that delivers real-time weather information based on the user’s location or city search.
-The app features GPS detection, city search with autocomplete, and dynamic theming that changes according to weather conditions.
-It uses BLoC (Cubit) for state management and integrates REST APIs using Dio for reliable data handling.
-Sky Sense also includes smooth Lottie animations, internet connectivity checks, and user-friendly error handling for a polished experience.
+Sky Sense is a Flutter weather application that allows users to check real-time weather conditions by using GPS location or searching for a city by name.
+The app includes an autocomplete search feature, dynamic themes that change based on weather conditions, and engaging Lottie animations.
+It also handles no-internet and error states gracefully, providing a smooth and user-friendly experience across all devices.
 
 ---
 
