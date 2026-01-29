@@ -9,7 +9,9 @@ It also handles no-internet and error states gracefully, providing a smooth and 
 ## 📱 Demo 🎬
 
 
-https://github.com/user-attachments/assets/781c8060-ed5a-4848-878d-2d12310aceda
+
+https://github.com/user-attachments/assets/89fd7d09-748a-475d-80a0-054bb7bfba5a
+
 
 
 <!-- Add your demo video here -->
