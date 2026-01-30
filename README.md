@@ -6,6 +6,11 @@ It also handles no-internet and error states gracefully, providing a smooth and 
 
 ---
 
+# 🤖 Download the Android app here.
+[Donwload now](https://ahmedeltantawi.netlify.app/Sky%20Sence.apk)
+
+---
+
 ## 📱 Demo 🎬
 
 
